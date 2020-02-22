@@ -5,7 +5,6 @@
 原创文章首先会发到[博客](https://blog.csdn.net/qq_36386908),之后同步到公众号，再收录到GitHub上，所以大家获取第一手资料请关注我的[博客](https://blog.csdn.net/qq_36386908)，<b>白嫖不好，记得点赞</b>，养成习惯哦！
 
 ## 目录
-<hr>
 * Java基础
 
 ## <a name="gongzhonghao">公众号和微信</a>
